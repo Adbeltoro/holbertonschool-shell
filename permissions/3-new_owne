@@ -1,2 +1,2 @@
 #!/bin/bash
-chowm hello betty
+sudo chowm hello betty
