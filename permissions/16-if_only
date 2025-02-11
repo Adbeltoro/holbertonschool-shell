@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ -e hello ];
+chown --from=guillaume vincent hello
