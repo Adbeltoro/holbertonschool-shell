@@ -1,0 +1,16 @@
+total 56
+drwxrwxr-x 2 holberton holberton 4096 feb 11 14:21 .
+drwxrwxr-x 6 holberton holberton 4096 feb 11 11:17 ..
+-rwxrwxr-x 1 holberton holberton   32 feb 11 11:19 0-hello_world
+-rwxrwxr-x 1 holberton holberton   29 feb 11 11:51 1-confused_smiley
+-rwxrwxr-x 1 holberton holberton   28 feb 11 13:15 2-hellofile
+-rwxrwxr-x 1 holberton holberton   39 feb 11 13:20 3-twofiles
+-rwxrwxr-x 1 holberton holberton   29 feb 11 13:29 4-lastlines
+-rwxrwxr-x 1 holberton holberton   37 feb 11 13:31 5-firstlines
+-rwxrwxr-x 1 holberton holberton   36 feb 11 13:53 6-third_line
+-rwxrwxr-x 1 holberton holberton   30 feb 11 13:50 6-third_line~
+-rwxrwxr-x 1 holberton holberton  103 feb 11 14:15 7-file
+-rwxrwxr-x 1 holberton holberton   36 feb 11 14:20 8-cwd_state
+-rw-rw-r-- 1 holberton holberton   12 feb 11 14:15 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 holberton holberton    0 feb 11 14:21 ls_cwd_content
+-rw-rw-r-- 1 holberton holberton   14 feb 11 11:24 README.md
